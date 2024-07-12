@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Denys Rudenko! 👋
 
-<!--
-**DenysRudenko2/DenysRudenko2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with interests in web development, data science, and open-source projects. 
 
-Here are some ideas to get you started:
+🌱 I’m currently learning and exploring new technologies to expand my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m actively working on various web development projects using PHP, Python
+
+💬 Ask me about anything related to web development, algorithms, or data structures. I'm always happy to help!
+
+## Interests
+- Web Development
+- Data Science
+- Machine Learning
+- Open Source Contribution
+
+## Skills
+- HTML/CSS
+- PHP
+- Python
+- SQL
+
+## Find Me Around the Web
+- LinkedIn: [Denys Rudenko](https://www.linkedin.com/in/denysrudenko/)
+- Twitter: [@DenysRudenko](https://twitter.com/DenysRudenko)
+
+Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's connect and learn from each other!
+
+Happy coding! 🚀
